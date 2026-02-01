@@ -16,7 +16,7 @@ namespace Task1_Q1
         public int X;
     }
 
-    // Q2 Definitions
+    /// Q2 Definitions
     class Student
     {
         public string Name;
